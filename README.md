@@ -12,7 +12,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
 
 ![Matlab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -33,7 +33,7 @@
 ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=vishalgattani&theme=blue-green)
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgattani" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet0814" /> 
 <!--   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet0814&layout=compact&langs_count=8&hide=HCL"/> -->
 </p> 
