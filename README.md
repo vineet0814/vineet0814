@@ -13,8 +13,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
-
-![Matlab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
