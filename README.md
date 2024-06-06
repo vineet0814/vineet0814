@@ -35,6 +35,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet0814" /> 
 <!--   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet0814&layout=compact&langs_count=8&hide=HCL"/> -->
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet0814&show_icons=true&locale=en&layout=compact" alt="vineet0814" /> -->  
 </p> 
 
 ### Connect
