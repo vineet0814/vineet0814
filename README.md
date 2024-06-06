@@ -29,7 +29,6 @@
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=vineet0814&theme=blue-green)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet0814&show_icons=true&locale=en&layout=compact" alt="vineet0814" /></p>
 
