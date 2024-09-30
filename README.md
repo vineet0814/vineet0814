@@ -3,7 +3,7 @@
 <!--
 **vineet0814/vineet0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on developing robust and reliable algorithms in Machine Learning with sound theoretical guarantees. Specifically in the fields of Federated Learning, Multi-Armed Bandits and Model Monitoring/Evaluation in Deployment. 
+- 🔭 I’m currently working on developing robust and reliable algorithms in Machine Learning with sound theoretical guarantees. Specifically in the fields of Federated Learning, Multi-Armed Bandits and Model Monitoring/Evaluation in deployment domain. 
 - 🌱 In addition, my personal research interests include learning about Fine Tuning in LLMs and Diffusion Models.
 
 ### Languages & Tools
